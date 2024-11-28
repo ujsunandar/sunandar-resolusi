@@ -1,6 +1,8 @@
 RENCANA TEMA PELATIHAN YANG AKAN DIIKUTI DI TAHUN 2025
 - Teknisi Utama Jaringan Komputer (VSGA)
   * Sertifikasi di BPPTIK Cikarang
+  * Batch 2
 - Cloud Computing (BBPVP Bandung) atau Mobile Development (BBPVP Bekasi)
 - Junior Mobile Programmer (VSGA)
+  * BPSDMP Bandung (Offline)
 - CCNA (PROA)
